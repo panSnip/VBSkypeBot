@@ -1,0 +1,13 @@
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\bin\Debug\ChiefSkypeBot.exe.config
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\bin\Debug\ChiefSkypeBot.exe
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\bin\Debug\ChiefSkypeBot.pdb
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\bin\Debug\ChiefSkypeBot.xml
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.vbprojResolveAssemblyReference.cache
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\Interop.SKYPE4COMLib.dll
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.vbproj.ResolveComReference.cache
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.Form1.resources
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.Resources.resources
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.vbproj.GenerateResource.Cache
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.exe
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.xml
+c:\users\llama\documents\visual studio 2015\Projects\ChiefSkypeBot\ChiefSkypeBot\obj\Debug\ChiefSkypeBot.pdb
